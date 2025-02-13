@@ -1,7 +1,3 @@
-Certainly! Below is the updated **README.md** for your **Food Image Identification** project, including **shields.io badges** for all the libraries you used. This will make your README more visually appealing and informative.
-
----
-
 # Food Image Identification - Machine Learning Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
