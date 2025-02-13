@@ -1,5 +1,16 @@
+Certainly! Below is the updated **README.md** for your **Food Image Identification** project, including **shields.io badges** for all the libraries you used. This will make your README more visually appealing and informative.
+
+---
 
 # Food Image Identification - Machine Learning Project
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7.0-orange)
+![Keras](https://img.shields.io/badge/Keras-2.7.0-red)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.0-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.0-blueviolet)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.0-lightgrey)
 
 This is a personal project to build a **machine learning model** that identifies food items from images. The goal is to explore image classification techniques using **TensorFlow** and **Keras**. The project involves preprocessing image data, building a convolutional neural network (CNN), and evaluating the model's performance.
 
@@ -126,6 +137,18 @@ plt.show()
 
 ---
 
+## Libraries Used
+
+This project uses the following libraries:
+- **TensorFlow**: For building and training the CNN model.
+- **Keras**: High-level API for defining neural networks.
+- **NumPy**: For numerical computations and array manipulations.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For visualizing training progress and results.
+- **Scikit-learn**: For additional machine learning utilities (if needed).
+
+---
+
 ## Notes
 
 - **Dataset Size**: A larger dataset may improve model performance.
@@ -136,7 +159,3 @@ plt.show()
 
 This project is a great way to explore image classification and deep learning techniques. Feel free to modify and extend it to suit your needs! 🚀
 
----
-
-Let me know if you'd like further adjustments or additional details! 🛠️
- 
